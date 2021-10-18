@@ -57,7 +57,7 @@ Search feature and saved cities:
 
 
 ## DEPLOYED LINK:
-```
+
 https://bripap.github.io/weather_dashboard/
-```
+
 
