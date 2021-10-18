@@ -38,7 +38,6 @@ THEN I am again presented with current and future conditions for that city
 
 ## SCREENSHOTS:
 
-```
 Full dashboard look:
 
 ![Full dashboard screenshot.](./images/fulldashboard.png)
@@ -50,7 +49,7 @@ Dashboard after city has been searched for:
 Search feature and saved cities:
 
 ![Search feature and saved cities image.](./images/dashboardsearch.png)
-```
+
 
 
 ## DEPLOYED LINK:
